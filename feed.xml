@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:21899B6D-62EB-46B6-A9F4-6A4BB757A611</id>
+ <title>Page list Atom feed</title>
+ <updated>2010-06-11T17:55:04-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:6C1C4DD3-DD78-4002-991F-CCCA59E30BFB</id>
+  <title>WAC</title>
+  <title xmlns="urn:iweb:">WAC</title>
+  <in-navbar xmlns="urn:iweb:">6C1C4DD3-DD78-4002-991F-CCCA59E30BFB</in-navbar>
+  <link rel="alternate" href="WAC.html"/>
+  <updated>2010-06-11T17:55:04.001-04:00</updated>
+  <content>WAC</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D92742AE-B1A6-4D86-B847-998B4B1D87F6</id>
+  <title>About</title>
+  <title xmlns="urn:iweb:">About</title>
+  <in-navbar xmlns="urn:iweb:">D92742AE-B1A6-4D86-B847-998B4B1D87F6</in-navbar>
+  <link rel="alternate" href="About.html"/>
+  <updated>2010-06-11T17:55:04.002-04:00</updated>
+  <content>About</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:807CFBCF-CC46-47BD-A191-F72FB6A728B0</id>
+  <title>Keynote</title>
+  <title xmlns="urn:iweb:">Keynote</title>
+  <in-navbar xmlns="urn:iweb:">807CFBCF-CC46-47BD-A191-F72FB6A728B0</in-navbar>
+  <link rel="alternate" href="Keynote.html"/>
+  <updated>2010-06-11T17:55:04.003-04:00</updated>
+  <content>Keynote</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:153B9F12-3E87-44F8-BDC4-8A67A8262988</id>
+  <title>Panel</title>
+  <title xmlns="urn:iweb:">Panel</title>
+  <in-navbar xmlns="urn:iweb:">153B9F12-3E87-44F8-BDC4-8A67A8262988</in-navbar>
+  <link rel="alternate" href="Panel.html"/>
+  <updated>2010-06-11T17:55:04.004-04:00</updated>
+  <content>Panel</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:43B67B8C-569E-458F-96E8-1B9122285826</id>
+  <title>Plenaries</title>
+  <title xmlns="urn:iweb:">Plenaries</title>
+  <in-navbar xmlns="urn:iweb:">43B67B8C-569E-458F-96E8-1B9122285826</in-navbar>
+  <link rel="alternate" href="Plenaries.html"/>
+  <updated>2010-06-11T17:55:04.005-04:00</updated>
+  <content>Plenaries</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E580628A-DEDE-42B7-AB17-D2E5F5729FB2</id>
+  <title>Aid</title>
+  <title xmlns="urn:iweb:">Aid</title>
+  <in-navbar xmlns="urn:iweb:">E580628A-DEDE-42B7-AB17-D2E5F5729FB2</in-navbar>
+  <link rel="alternate" href="Aid.html"/>
+  <updated>2010-06-11T17:55:04.006-04:00</updated>
+  <content>Aid</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FDC3D58F-F1F1-4DA9-99E1-FD3658FC9E18</id>
+  <title>Economy</title>
+  <title xmlns="urn:iweb:">Economy</title>
+  <in-navbar xmlns="urn:iweb:">FDC3D58F-F1F1-4DA9-99E1-FD3658FC9E18</in-navbar>
+  <link rel="alternate" href="Economy.html"/>
+  <updated>2010-06-11T17:55:04.007-04:00</updated>
+  <content>Economy</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D2E3B0F9-00A4-45DB-8093-9DD079699FEF</id>
+  <title>Superpowers</title>
+  <title xmlns="urn:iweb:">Superpowers</title>
+  <in-navbar xmlns="urn:iweb:">D2E3B0F9-00A4-45DB-8093-9DD079699FEF</in-navbar>
+  <link rel="alternate" href="Superpowers.html"/>
+  <updated>2010-06-11T17:55:04.008-04:00</updated>
+  <content>Superpowers</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:115817A8-9ED9-4396-B664-B99B1FDEDAC1</id>
+  <title>Health</title>
+  <title xmlns="urn:iweb:">Health</title>
+  <in-navbar xmlns="urn:iweb:">115817A8-9ED9-4396-B664-B99B1FDEDAC1</in-navbar>
+  <link rel="alternate" href="Health.html"/>
+  <updated>2010-06-11T17:55:04.009-04:00</updated>
+  <content>Health</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5D6B5EAA-829B-4AD1-AC58-39FF653EA70F</id>
+  <title>Science</title>
+  <title xmlns="urn:iweb:">Science</title>
+  <in-navbar xmlns="urn:iweb:">5D6B5EAA-829B-4AD1-AC58-39FF653EA70F</in-navbar>
+  <link rel="alternate" href="Science.html"/>
+  <updated>2010-06-11T17:55:04.010-04:00</updated>
+  <content>Science</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D5E281BA-3B60-4643-81EF-14D067CDB743</id>
+  <title>Trade</title>
+  <title xmlns="urn:iweb:">Trade</title>
+  <in-navbar xmlns="urn:iweb:">D5E281BA-3B60-4643-81EF-14D067CDB743</in-navbar>
+  <link rel="alternate" href="Trade.html"/>
+  <updated>2010-06-11T17:55:04.011-04:00</updated>
+  <content>Trade</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D473C277-BF26-4E33-A53A-A008307C557E</id>
+  <title>Agriculture</title>
+  <title xmlns="urn:iweb:">Agriculture</title>
+  <in-navbar xmlns="urn:iweb:">D473C277-BF26-4E33-A53A-A008307C557E</in-navbar>
+  <link rel="alternate" href="Agriculture.html"/>
+  <updated>2010-06-11T17:55:04.012-04:00</updated>
+  <content>Agriculture</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6C942E53-BDA7-49D6-82B0-3EF8F4FA6284</id>
+  <title>Amalgamation</title>
+  <title xmlns="urn:iweb:">Amalgamation</title>
+  <in-navbar xmlns="urn:iweb:">6C942E53-BDA7-49D6-82B0-3EF8F4FA6284</in-navbar>
+  <link rel="alternate" href="Amalgamation.html"/>
+  <updated>2010-06-11T17:55:04.013-04:00</updated>
+  <content>Amalgamation</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:31360499-D77B-47D7-AB02-36A62ED4B333</id>
+  <title>Itinerary</title>
+  <title xmlns="urn:iweb:">Itinerary</title>
+  <in-navbar xmlns="urn:iweb:">31360499-D77B-47D7-AB02-36A62ED4B333</in-navbar>
+  <link rel="alternate" href="Itinerary.html"/>
+  <updated>2010-06-11T17:55:04.014-04:00</updated>
+  <content>Itinerary</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:427FE55F-3A52-4D5E-893F-F0FF5A742911</id>
+  <title>Accommodations</title>
+  <title xmlns="urn:iweb:">Accommodations</title>
+  <in-navbar xmlns="urn:iweb:">427FE55F-3A52-4D5E-893F-F0FF5A742911</in-navbar>
+  <link rel="alternate" href="Accommodations.html"/>
+  <updated>2010-06-11T17:55:04.015-04:00</updated>
+  <content>Accommodations</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7036E722-4A84-403C-89BF-BCB65CD35C2A</id>
+  <title>Registration</title>
+  <title xmlns="urn:iweb:">Registration</title>
+  <in-navbar xmlns="urn:iweb:">7036E722-4A84-403C-89BF-BCB65CD35C2A</in-navbar>
+  <link rel="alternate" href="Registration.html"/>
+  <updated>2010-06-11T17:55:04.016-04:00</updated>
+  <content>Registration</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5A1AF79C-EA74-4656-9B9D-1A75FB04CB92</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">5A1AF79C-EA74-4656-9B9D-1A75FB04CB92</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2010-06-11T17:55:04.017-04:00</updated>
+  <content>Contact</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8ECB30A9-E757-4215-A3A1-A2908B3E4C70</id>
+  <title>Directions</title>
+  <title xmlns="urn:iweb:">Directions</title>
+  <in-navbar xmlns="urn:iweb:">8ECB30A9-E757-4215-A3A1-A2908B3E4C70</in-navbar>
+  <link rel="alternate" href="Directions.html"/>
+  <updated>2010-06-11T17:55:04.018-04:00</updated>
+  <content>Directions</content>
+ </entry>
+</feed>
